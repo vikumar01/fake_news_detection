@@ -1,6 +1,6 @@
 # fake_news_detection using LIAR LIAR Dataset
 USed NAive modelling with TFIDF and CBOW
-
+LOgestic regression worked best
 Neural network( LSTM )
 Multimodel keras layer
 
