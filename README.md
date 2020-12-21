@@ -21,3 +21,5 @@ The reason for using this credit score is to sort of increase the relative diffe
 * Image of the total data*
 
 3. Emotion lexicon: The NRC Emotion Lexicon is a list of English words and their associations with eight basic emotions (anger, fear, anticipation, trust, surprise, sadness, joy, and disgust) and two sentiments (negative and positive).
+
+.
